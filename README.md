@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Riyanka;Aspiring+Data+Scientist;Electrical+Engineering+Major;ML+Enthusiast" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <h3>Building intelligent solutions with data and code.</h3>
 </div>
