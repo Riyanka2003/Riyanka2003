@@ -5,7 +5,6 @@
 <div align="center">
   <h3>Building intelligent solutions with data and code.</h3>
 </div>
-
 <br />
 
 ## 👩‍💻 About Me
@@ -50,8 +49,8 @@ I am an **Electrical Engineering** student passionate about bridging the gap bet
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
-
 <br />
+
 ## 🤝 Connect with me
 
 <p align="left">
