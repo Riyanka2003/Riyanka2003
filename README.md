@@ -5,7 +5,9 @@
 <div align="center">
   <h3>Building intelligent solutions with data and code.</h3>
 </div>
+
 <br />
+
 ## 👩‍💻 About Me
 
 I am an **Electrical Engineering** student passionate about bridging the gap between hardware and intelligence. My focus lies in **Machine Learning**, **Data Science**, and **IoT Systems**.
