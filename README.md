@@ -5,9 +5,7 @@
 <div align="center">
   <h3>Building intelligent solutions with data and code.</h3>
 </div>
-
 <br />
-
 ## 👩‍💻 About Me
 
 I am an **Electrical Engineering** student passionate about bridging the gap between hardware and intelligence. My focus lies in **Machine Learning**, **Data Science**, and **IoT Systems**.
@@ -16,11 +14,9 @@ I am an **Electrical Engineering** student passionate about bridging the gap bet
 - 🌱 I’m currently learning **Advanced Neural Networks & System Design**
 - ⚡ **Fun fact:** I love connecting software logic with hardware reality (Arduino/ESP32).
 - 📫 Reach me at: **riyankabhowmik955@gmail.com**
-
 <br />
 
 ## 🛠️ Languages & Tools
-
 <p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -54,16 +50,6 @@ I am an **Electrical Engineering** student passionate about bridging the gap bet
 </p>
 
 <br />
-
-## 📊 Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyanka2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanka2003&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br />
-
 ## 🤝 Connect with me
 
 <p align="left">
